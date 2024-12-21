@@ -1,7 +1,7 @@
 # Tomato leaf disease classification
 
 ## Dataset
-https://huggingface.co/datasets/wellCh4n/tomato-leaf-disease-image
+> https://huggingface.co/datasets/wellCh4n/tomato-leaf-disease-image
 
 Prepared based on https://github.com/spMohanty/PlantVillage-Dataset
 
